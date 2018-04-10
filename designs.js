@@ -13,7 +13,7 @@ button.addEventListener('click',function(e) {
 });
 
 function makeGrid() {
-
+c.innerHTML = '';
 
 	height = gridHeight.value;
 	width = gridWidth.value;
@@ -26,4 +26,6 @@ function makeGrid() {
         });
         }
     }
+
+
 }
