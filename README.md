@@ -4,7 +4,7 @@
 
 To start the application simply open index.html.
 
-##Author
+## Author
 
 The basics of this application was provided by Udacity. All I (Luqman Satrio Wicaksono) did was making the game interactive in design.js.
 
